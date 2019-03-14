@@ -1,4 +1,4 @@
-baseURL = "http://teamcraftbeer.org/"
+baseURL = "https://teamcraftbeer.org/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Team Craft Beer"
