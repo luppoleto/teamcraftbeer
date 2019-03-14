@@ -1,0 +1,14 @@
+enable : true
+heading : Fundraising
+headingSpan : 
+title : We’ve raised over X dollars for Cancer research and patient care. 
+content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+image : images/about/company-growth.png
+skillItem :
+  - itemNumber : 2017- 
+    itemName :  Goal $50,000 (Actual $XX)
+    itemPercent : 90%
+    
+  - itemNumber : 2018-
+    itemName :  Goal $100,000 (Actual $XX)
+    itemPercent : 150%

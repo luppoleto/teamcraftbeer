@@ -1,0 +1,33 @@
+enable : true
+heading : Get
+headingSpan : Involved
+actionItem :
+  - icon : tf-bike
+    title : Join the Team    
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    url : https://www.rideclosertofree.org/team/5826
+
+  - icon : tf-ion-ios-body
+    title : Volunteer
+    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    url : volunteer
+    
+  - icon : tf-genius
+    title : Become a Sponsor
+    content : We want your logo emblazoned proudly on Team Craft Beer's Jerseys. Sponsorship options range from $500 for a small logo on the pocket to $10,000 for the back. 
+    url : '#pricing'
+
+  - icon : tf-ion-tshirt-outline
+    title : Buy Gear
+    content : All proceeds are pooled and distributed to members of Team Craft Beer who need a helping hand to get to their minimum pledge level. 
+    url : '#shop'
+    
+  - icon : tf-ion-cash
+    title : Make a Donation
+    content : The easiest way to help Team Craft Beer is to fund one of our members. Donate through the Closer to Free website to any member of Team Craft Beer! (TODO - Add link)
+    url : https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.teamParticipants&teamID=5826
+    
+  - icon : tf-ion-beer
+    title : Cheer Along the Route
+    content : It's amazing to see so many folks along the path the day of the ride. If you are willing and able to camp out along the ride path & cheer us on, it really truly helps. 
+    url : https://www.rideclosertofree.org/index.cfm?fuseaction=cms.page&id=1091

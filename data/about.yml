@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-ion-beer
+  title : We Love Beer
+  content : Team Craft Beer is a community of folks who love beer and discovered -- usually over a pint -- our mutual passion for helping others. 
+
+- icon : tf-bike
+  title : We Love Biking
+  content : Some of us can be called cyclists, some of us clearly bike in a vain attempt to offset our beer intake.  We won't say who is who.
+
+- icon : tf-ion-heart-broken
+  title : We HATE Cancer
+  content : Cancer impacts everyone. Whether it's a personal struggle or that of a loved one, we're united in raising money to combat this terrible disease.

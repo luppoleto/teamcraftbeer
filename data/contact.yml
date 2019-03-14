@@ -1,0 +1,15 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Contact Details
+content : Running Team Craft Beer is a lot of people's unpaid part time jobs. So please be patient, we'll get to you as soon as we can!
+enable_maps : false
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "New Haven, Connecticut"
+      
+  - icon : tf-ion-ios-email-outline
+    info : "Email: hello@teamcraftbeer.org"
+    

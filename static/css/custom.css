@@ -1,0 +1,31 @@
+.hero-area .block h1 {
+    color: gold;
+}
+
+.hero-area .block p {
+    color:#fff;
+}
+
+
+body { 
+    background-color: lightgrey;
+}
+
+.bg-one {
+    background-color: black;
+}
+h2 span.color { color:gold;}
+
+.border-meghna:before { background-color: gold;}
+.price-item {
+    border:1px solid #fff;
+}
+
+.navbar-brand img { 
+    max-height:60px;    
+}
+.navbar-brand span { display: none;}
+
+.service-block a:hover { 
+    color:gold;
+}

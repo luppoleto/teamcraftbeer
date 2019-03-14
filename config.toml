@@ -1,0 +1,137 @@
+baseURL = "http://teamcraftbeer.org/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Team Craft Beer"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Get Involved"
+    URL = "get-involved"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Sponsor"
+    URL = "pricing"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Shop"
+    URL = "shop"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 6
+
+    #[[menu.nav]]
+    #name = "Team"
+    #URL = "our-team"
+    #weight = 7
+
+    #[[menu.nav]]
+    #name = "Blog"
+    #URL = "blog"
+    #weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/team-photo-3.jpg"
+    icon = "tf-ion-play"
+    heading = "Beer, Bikes & Beating Cancer"
+    content= "Love beer? Can you bike a few miles? Join us in raising money for Cancer Research at Yale New Haven Hospital and Patient Care Smillow Cancer Center thru the Closer to Free Ride."
+    btn = true
+    btnText="Get Involved"
+    btnURL="#get-involved"
+
+    # call to action
+    [params.cta]
+    enable = false
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Riders"
+        icon = "tf-ion-android-bicycle"
+        count = "60"
+
+        [[params.counter.counterItem]]
+        title = "Miles completed"
+        icon = "tf-map2"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Dollars Raised"
+        icon = "tf-ion-cash"
+        count = "$250,000"
+
+        [[params.counter.counterItem]]
+        title = "Glasses of Beer"
+        icon = "tf-ion-beer"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/teamcraftbeer"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-google-outline"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-youtube"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-linkedin"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-dribbble-outline"
+        #url = "#"
+
+        #[[params.footer.socialIcon]]
+        #icon = "tf-ion-social-pinterest-outline"
+        #url = "#"
