@@ -4,12 +4,12 @@ headingSpan : Involved
 actionItem :
   - icon : tf-bike
     title : Join the Team    
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : Sign up using the Closer to Free page and Like the Team Craft Beer page on Facebook to see the latest events and training rides. To get more involved, click "Volunteer".
     url : https://www.rideclosertofree.org/team/5826
 
   - icon : tf-ion-ios-body
     title : Volunteer
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content : Looking for other ways to help? Use this form to inquire about Volunteer Opportunites that best match your skills & availability - whether you plan to ride or not!
     url : volunteer
     
   - icon : tf-genius
@@ -19,12 +19,12 @@ actionItem :
 
   - icon : tf-ion-tshirt-outline
     title : Buy Gear
-    content : All proceeds are pooled and distributed to members of Team Craft Beer who need a helping hand to get to their minimum pledge level. 
+    content : All proceeds are pooled and distributed to members of Team Craft Beer who need a helping hand to get to their minimum pledge level. [Coming Soon!] 
     url : '#shop'
     
   - icon : tf-ion-cash
     title : Make a Donation
-    content : The easiest way to help Team Craft Beer is to fund one of our members. Donate through the Closer to Free website to any member of Team Craft Beer! (TODO - Add link)
+    content : The easiest way to help Team Craft Beer is to fund one of our members. Donate through the Closer to Free website to any member of Team Craft Beer!
     url : https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.teamParticipants&teamID=5826
     
   - icon : tf-ion-beer

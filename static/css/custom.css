@@ -33,9 +33,16 @@ h2 span.color { color:gold;}
     max-height: 400px;    
 }
 
+.jersey-mockup { 
+    margin-bottom: 25px;    
+}
+
 @media screen and (max-width: 600px)
 {
     .hero-area .logo { 
         max-height: 175px;        
+    }
+    .hero-area .block h1 { 
+        font-size: 40px;        
     }
 }
