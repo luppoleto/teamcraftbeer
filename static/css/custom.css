@@ -29,3 +29,13 @@ h2 span.color { color:gold;}
 .service-block a:hover { 
     color:gold;
 }
+.hero-area .logo { 
+    max-height: 400px;    
+}
+
+@media screen and (max-width: 600px)
+{
+    .hero-area .logo { 
+        max-height: 175px;        
+    }
+}
