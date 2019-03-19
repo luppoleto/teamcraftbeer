@@ -5,8 +5,9 @@ pricingTable :
   - title : Bronze
     price : $500
     time : each 
-    btnURL : #
+    btnURL : #sponsor
     btnText : Signup
+    level: 1
     plan :    
       - planDetails : Logo on Jersey Back Pockets 
       - planDetails : 16 spots available (0 taken)
@@ -15,8 +16,9 @@ pricingTable :
   - title : Silver
     price : $1,000
     time : each
-    btnURL : #
+    btnURL : #sponsor
     btnText : Signup
+    level: 2
     plan :
       - planDetails : Logo on Jersey side or Shoulder      
       - planDetails : 4 spots available (0 taken)
@@ -25,8 +27,9 @@ pricingTable :
   - title : Gold
     price : $1,250
     time : each
-    btnURL : #
+    btnURL : #sponsor
     btnText : Signup
+    level: 3
     plan :
       - planDetails : Logo on Back 
       - planDetails : 16 spots available (0 taken)
@@ -35,8 +38,9 @@ pricingTable :
   - title : Platinum
     price : $4,000
     time : each
-    btnURL : #
+    btnURL : #sponsor
     btnText : Signup
+    level: 4
     plan :
       - planDetails : Top Back of Jersey
       - planDetails : 1 spot available (0 taken)      

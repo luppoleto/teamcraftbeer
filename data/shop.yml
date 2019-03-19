@@ -1,6 +1,6 @@
 enable : true
-heading : Shop TCB 
-headingSpan : Gear
+heading : Gear Shop 
+headingSpan : Coming Soon...
 filterList :
   - filterType : apparel
     filterTitle : Apparel
@@ -30,16 +30,9 @@ shopItem :
     description : Light silver gray t-shirt with black screen print.
     
   - types : gear
-    image : images/portfolio/portfolio-3.jpg
+    image : images/water-bottle.jpg
     icon : tf-ion-android-search
     URL : #
     title : TCB Water Bottle
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : glassware
-    image : images/portfolio/portfolio-4.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Bottol Label
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     

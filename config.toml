@@ -43,8 +43,8 @@ summaryLength = 10
     #weight = 7
 
     #[[menu.nav]]
-    #name = "Blog"
-    #URL = "blog"
+    #name = "Posts"
+    #URL = "posts"
     #weight = 8
 
 # Site params
@@ -77,7 +77,7 @@ custom_css = ["css/custom.css"]
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
     btnText = "Start a project with us"
-
+   
     # counter
     [params.counter]
     enable = true
