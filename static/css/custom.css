@@ -37,6 +37,11 @@ h2 span.color { color:gold;}
     margin-bottom: 25px;    
 }
 
+.copyright p {
+    font-size:10px;
+    color: silver;
+}
+
 @media screen and (max-width: 600px)
 {
     .hero-area .logo { 

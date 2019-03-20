@@ -1,5 +1,5 @@
 enable : true
-heading : Gear Shop 
+heading : Gear 
 headingSpan : Coming Soon...
 filterList :
   - filterType : apparel
@@ -34,5 +34,5 @@ shopItem :
     icon : tf-ion-android-search
     URL : #
     title : TCB Water Bottle
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    description : The signature TCB Yellow water bottle will remind you of the beer that awaits at the finish!
     

@@ -2,7 +2,7 @@
 title: "So You Wanna Join Team Craft Beer..."
 date: 2019-01-01
 author: JW
-image: 
+image: images/team-photo-2.jpg
 description : "How to Sign Up for Team Craft Beer"
 ---
 
@@ -10,7 +10,7 @@ description : "How to Sign Up for Team Craft Beer"
 
 ## How it Works
 
-Each rider must commit to raising at least $500 and, as part of Team Craft Beer, you'll have access to a number of veteran riders who can help guide your fundraising efforts. There may even be team fundraisers which may help supplement those who are struggling to reach the $500 threshold. 
+Each rider must commit to raising at least $500 and, as part of Team Craft Beer, you'll have access to a number of veteran riders who can help guide your fundraising efforts. There *may* even be team fundraisers which may help supplement those who are struggling to reach the $500 threshold. 
 
 ## Get Started
 
@@ -28,7 +28,7 @@ Feel free to reach out on your preferred Social Media channel or [drop us a line
 
 ## Fundraising
 
-If you need inspiration, check out our [Fundraising Tips][5] (TODO: Write this article). 
+If you need inspiration, check out our [Fundraising Tips][5]. 
 
 
 [1]: https://www.rideclosertofree.org/team/5826
