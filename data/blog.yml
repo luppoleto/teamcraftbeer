@@ -1,4 +1,6 @@
-enable : false
+enable : true
+heading : Recent
+headingSpan : Posts
 sharing : false
 staticmanComments:
   enable: false

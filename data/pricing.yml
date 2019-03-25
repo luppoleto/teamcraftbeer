@@ -10,8 +10,8 @@ pricingTable :
     level: 1
     plan :    
       - planDetails : Logo on Jersey Back Pockets 
-      - planDetails : 16 spots available (0 taken)
-      - planDetails : VIP Ticket to TCB Party      
+      - planDetails : 16 spots available (0 sold)
+      - planDetails : 2 x VIP Tickets to TCB Party      
       
   - title : Silver
     price : $1,000
@@ -21,8 +21,8 @@ pricingTable :
     level: 2
     plan :
       - planDetails : Logo on Jersey side or Shoulder      
-      - planDetails : 4 spots available (0 taken)
-      - planDetails : VIP Ticket to TCB Party
+      - planDetails : 3 of 4 spots available (1 sold)
+      - planDetails : 2 x VIP Tickets to TCB Party
       
   - title : Gold
     price : $1,250
@@ -32,8 +32,8 @@ pricingTable :
     level: 3
     plan :
       - planDetails : Logo on Back 
-      - planDetails : 16 spots available (0 taken)
-      - planDetails : 2 x VIP Ticket to TCB Party
+      - planDetails : 8 of 8 spots available (0 sold)
+      - planDetails : 4 x VIP Tickets to TCB Party
       
   - title : Platinum
     price : $4,000
@@ -43,8 +43,8 @@ pricingTable :
     level: 4
     plan :
       - planDetails : Top Back of Jersey
-      - planDetails : 1 spot available (0 taken)      
-      - planDetails : 4 x VIP Tickets to TCB Party
+      - planDetails : 1 spot available (0 sold)      
+      - planDetails : 8 x VIP Tickets to TCB Party
 
   # - title : Excelsior
   #   price : $10,000

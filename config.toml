@@ -23,29 +23,24 @@ summaryLength = 10
     weight = 3
 
     [[menu.nav]]
-    name = "Sponsor"
-    URL = "pricing"
+    name = "Gear"
+    URL = "gear"
     weight = 4
 
     [[menu.nav]]
-    name = "Shop"
-    URL = "shop"
+    name = "Sponsor"
+    URL = "pricing"
     weight = 5
+
+    [[menu.nav]]
+    name = "Events"
+    URL = "events"
+    weight = 6
 
     [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 6
-
-    #[[menu.nav]]
-    #name = "Team"
-    #URL = "our-team"
-    #weight = 7
-
-    #[[menu.nav]]
-    #name = "Posts"
-    #URL = "posts"
-    #weight = 8
+    weight = 7
 
 # Site params
 [params]
@@ -85,15 +80,15 @@ custom_css = ["css/custom.css"]
         [[params.counter.counterItem]]
         title = "Riders"
         icon = "tf-ion-android-bicycle"
-        count = 60
+        count = 50
 
         [[params.counter.counterItem]]
-        title = "Miles completed"
+        title = "Miles Pledged"
         icon = "tf-map2"
-        count = "565"
+        count = "2000"
 
         [[params.counter.counterItem]]
-        title = "Dollars Raised"
+        title = "Total Raised"
         icon = "tf-ion-cash"
         count = "$226,000"
 

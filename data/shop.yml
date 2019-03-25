@@ -1,5 +1,5 @@
 enable : true
-heading : Gear 
+heading : TCB Gear 
 headingSpan : Coming Soon...
 filterList :
   - filterType : apparel

@@ -1,20 +1,19 @@
 {{ if .Site.Data.blog.enable}}
 {{"<!-- Start Blog Section -->" | safeHTML}}
 {{ $data := index .Site.Data .Site.Language.Lang }}
-<section id="blog" class="section">
+<section id="events" class="section">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 {{"<!-- section title -->" | safeHTML}}
-                <div class="title text-center wow fadeInDown">
-                    <!-- <h2> {{ with $data.blog.heading }} {{ . }} {{ end }} <span class="color"> {{ with $data.blog.headingSpan }} {{ . }} {{ end }} </span></h2> -->
-                    <h2>Recent <span class="color">Posts</span></h2>
+                <div class="title text-center wow fadeInDown">                    
+                    <h2>Upcoming <span class="color">Events</span></h2>
                     <div class="border-meghna"></div>
                 </div>
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-            {{ range where .Data.Pages "Params.tag" "featured" }}
+            {{ range where .Data.Pages "Params.tags" "upcoming" }}
             {{"<!-- single blog post -->" | safeHTML}}
             <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
                 <div class="post-block">
@@ -22,8 +21,9 @@
                         {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-fluid">{{ end }}
                     </div>
 
-                    <div class="content">
+                    <div class="content event">
                         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p class="time">{{ dateFormat "Monday, Jan 2" .Params.eventdate }} {{ .Params.eventtime }}</p>
                         <p>{{ .Summary }}</p>
                         <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
                     </div>
@@ -33,7 +33,7 @@
             {{ end }}
 
             <div class="all-post text-center col-lg-12">
-                <a class="btn btn-main" href="{{ if .Site.GetPage "/blog" }}/blog{{ else }}/posts{{end}}">{{ i18n "viewAllPost" }}</a>
+                <a class="btn btn-main" href="/events">View All Events</a>
             </div>
         </div>
     </div>
