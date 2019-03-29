@@ -7,10 +7,11 @@ pricingTable :
     time : each 
     btnURL : #sponsor
     btnText : Signup
+    soldOut: false
     level: 1
     plan :    
       - planDetails : Logo on Jersey Back Pockets 
-      - planDetails : 16 spots available (0 sold)
+      - planDetails : 15 spots available (1 sold)
       - planDetails : 2 x VIP Tickets to TCB Party      
       
   - title : Silver
@@ -18,6 +19,7 @@ pricingTable :
     time : each
     btnURL : #sponsor
     btnText : Signup
+    soldOut: false
     level: 2
     plan :
       - planDetails : Logo on Jersey side or Shoulder      
@@ -29,6 +31,7 @@ pricingTable :
     time : each
     btnURL : #sponsor
     btnText : Signup
+    soldOut: false
     level: 3
     plan :
       - planDetails : Logo on Back 
@@ -40,10 +43,11 @@ pricingTable :
     time : each
     btnURL : #sponsor
     btnText : Signup
+    soldOut: true
     level: 4
     plan :
-      - planDetails : Top Back of Jersey
-      - planDetails : 1 spot available (0 sold)      
+      - planDetails : Top Back of Jersey 
+      - planDetails : 0 spots available (1 sold)      
       - planDetails : 8 x VIP Tickets to TCB Party
 
   # - title : Excelsior

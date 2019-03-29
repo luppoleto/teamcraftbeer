@@ -44,7 +44,11 @@
                     </ul>
 
                     {{"<!-- signup button -->" | safeHTML}}
-                    <a class="btn btn-transparent sponsorbtn" href="#sponsor" data-level="{{ .level }}">{{ .btnText }}</a>
+                    {{ if ( .soldOut )}}
+                        <p>*** SOLD! ***</p>                    
+                    {{ else }}
+                        <a class="btn btn-transparent sponsorbtn" href="#sponsor" data-level="{{ .level }}">{{ .btnText }}</a>    
+                    {{ end }}
 
                 </div>
             </div>

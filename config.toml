@@ -60,7 +60,7 @@ custom_css = ["css/custom.css"]
     bgImage = "images/team-photo-3.jpg"
     icon = "tf-ion-play"
     heading = "Beer, Bikes & Beating Cancer"
-    content= "Love beer? Can you bike a few miles? Join us in raising money for Cancer Research at Yale New Haven Hospital and Patient Care Smillow Cancer Center thru the Closer to Free Ride."
+    content= "Love beer? Can you bike a few miles? Join us in raising money for Cancer Research at Yale New Haven Hospital and Patient Care at Smilow Cancer Center thru the Closer to Free Ride."
     btn = true
     btnText="Get Involved"
     btnURL="#get-involved"
@@ -105,7 +105,7 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/teamcraftbeer/"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"

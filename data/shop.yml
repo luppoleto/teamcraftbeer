@@ -16,18 +16,25 @@ filterList :
 
 shopItem :
   - types : apparel
-    image : images/portfolio/portfolio-1.jpg
+    image : images/gear/tee-black.png
     icon : tf-ion-android-search
     URL : #
-    title : Charcoal Tee
-    description : Charcoal Team Craft Beer t-shirt with light gray screen print.
+    title : Black Tee
+    description : Charcoal Team Craft Beer t-shirt with white screen print.
     
   - types : apparel
-    image : images/portfolio/portfolio-2.jpg
+    image : images/gear/tee-gray.png
     icon : tf-ion-android-search
     URL : #
     title : Silver Tee
-    description : Light silver gray t-shirt with black screen print.
+    description : Silver gray t-shirt with white screen print.
+
+  - types : apparel
+    image : images/gear/tee-seafoam.png
+    icon : tf-ion-android-search
+    URL : #
+    title : Seafoam Tee
+    description : Greenish teal t-shirt with white screen print.
     
   - types : gear
     image : images/water-bottle.jpg
