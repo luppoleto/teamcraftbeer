@@ -37,7 +37,7 @@ shopItem :
     description : Greenish teal t-shirt with white screen print.
     
   - types : gear
-    image : images/water-bottle.jpg
+    image : images/gear/water-bottle.jpg
     icon : tf-ion-android-search
     URL : #
     title : TCB Water Bottle
