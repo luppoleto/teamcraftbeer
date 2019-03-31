@@ -9,10 +9,10 @@
 
             {{ range .Data.Pages }}
             {{"<!-- single blog post -->" | safeHTML}}
-            {{ .Render "article" }}
+            {{ .Render "article" }} 
             {{"<!-- /single blog post -->" | safeHTML}}
             {{ end }}
-        </div>
+        </div>        
     </div>
 </section>
 {{"<!-- /blog -->" | safeHTML}}

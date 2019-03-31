@@ -24,7 +24,7 @@
                     <div class="content event">
                         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                         <p class="time">{{ dateFormat "Monday, Jan 2" .Params.eventdate }} {{ .Params.eventtime }}</p>
-                        <p>{{ .Summary }}</p>
+                        <p>{{ if (isset .Params "tease") }} {{ .Params.tease }} {{ else }} {{ .Summary }} {{end}}</p>
                         <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
                     </div>
                 </div>

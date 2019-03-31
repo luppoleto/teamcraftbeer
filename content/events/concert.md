@@ -5,7 +5,7 @@ author: TCB
 image: images/2019/final-friday-fundraiser.jpg
 description : "Celebrate the Final Friday of the Month with Team Craft Beer!"
 type: "event"
-tags: "upcoming" 
+tags: "" 
 eventdate: 2019-03-29
 eventtime: 6:00pm-10:00pm
 
