@@ -19,11 +19,11 @@ pricingTable :
     time : each
     btnURL : #sponsor
     btnText : Signup
-    soldOut: false
+    soldOut: true
     level: 2
     plan :
-      - planDetails : Logo on Left Side (other spots sold)
-      - planDetails : 1 of 4 spots available (3 sold)
+      - planDetails : Logo on Side or Shoulder
+      - planDetails : 0 of 4 spots available (4 sold)
       - planDetails : 2 x VIP Tickets to TCB Party
       
   - title : Gold
@@ -35,7 +35,7 @@ pricingTable :
     level: 3
     plan :
       - planDetails : Logo on Back 
-      - planDetails : 7 of 8 spots available (1 sold)
+      - planDetails : 6 of 8 spots available (1 sold)
       - planDetails : 4 x VIP Tickets to TCB Party
       
   - title : Platinum
