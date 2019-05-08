@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h1>Team Member Spotlight: {{ .Title }}</h1>
+                <ul class="list-inline mb-50">                    
+                    <li class="list-inline-item">Posted {{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
+                    <!-- <li class="list-inline-item">by <a href="/author/{{ urlize .Params.author}}">{{ .Params.author }}</a></li> -->
+                </ul>
+                {{ if (isset .Params "youtubecode") }}
+                <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/{{ .Params.youtubecode }}"></iframe>
+                {{ else }}
+                {{ with .Params.image }}<img class="img-fluid mb-50" src="{{ . | absURL }}" alt="blog-image">{{ end }}
+                {{ end }}
+            </div>
+            
+            <div class="col-lg-8 offset-lg-2">
+                <div class="post-single-content">
+                    {{ .Content }}
+                </div>
+                <div class="support-button">
+                    <a href="https://www.rideclosertofree.org/index.cfm?fuseaction=donordrive.participant&participantID={{ .Params.participantid }}" class="btn btn-main">Support {{ .Title }}</a>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+{{ end }}

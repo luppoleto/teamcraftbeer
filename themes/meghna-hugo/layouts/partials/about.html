@@ -29,9 +29,40 @@
             {{ end }}
         </div>
     </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="title text-center">
+                    <h2>Team Member <span class="color">Spotlight</span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+            </div>            
+        </div>
+        <div class="row">
+            {{ range first 3 (where .Pages "Params.type" "member") }}
+            {{"<!-- single member post -->" | safeHTML}}
+            <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+                <div class="post-block">
+                    <div class="media-wrapper">
+                        {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-fluid">{{ end }}
+                    </div>
+
+                    <div class="content event">
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p>{{ if (isset .Params "tease") }} {{ .Params.tease }} {{ else }} {{ .Summary }} {{end}}</p>
+                        <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
+                    </div>
+                </div>
+            </article>
+            {{"<!-- /single member post -->" | safeHTML}}        
+            {{ end }}
+        </div>
+    </div>
 </section>
 {{"<!-- /about -->" | safeHTML}}
 {{ end }}
+
+
 
 {{ if .Site.Data.about2.enable }}
 {{"<!-- about 2 -->" | safeHTML}}

@@ -13,7 +13,7 @@
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-            {{ range where .Site.Pages "Params.featured" "=" true }}
+            {{ range where (where .Pages "Params.type" "event") ".Params.featured" "=" "true" }}            
             {{"<!-- single blog post -->" | safeHTML}}
             <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
                 <div class="post-block">
@@ -23,7 +23,8 @@
 
                     <div class="content event">
                         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        <p class="time">{{ dateFormat "Monday, Jan 2" .Params.eventdate }} {{ .Params.eventtime }}</p>
+                        <p class="time">{{ dateFormat "Monday, Jan 2" .Params.eventdate }} 
+                            {{ if (isset .Params "eventtime") }} {{.Params.eventtime }} {{end}}</p>
                         <p>{{ if (isset .Params "tease") }} {{ .Params.tease }} {{ else }} {{ .Summary }} {{end}}</p>
                         <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
                     </div>

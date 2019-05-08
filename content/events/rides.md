@@ -9,7 +9,7 @@ type: "event"
 tags: "" 
 eventdate: 2019-04-20
 eventtime: "- Aug 25"
-featured: true
+featured: "true"
 ---
 
 It's still early in the season but our first training ride will be: **April 20th**
@@ -19,9 +19,9 @@ Once we have more details about a time & place we will post them here and across
 
 Here is the tentative schedule for training rides in the 2019 Season: 
 
-- [April 20th][2] - 30 miles, starting at NEBCO
-- May 4th
-- May 19th
+- [April 20th][2] - POSTPONED! 
+- [May 4th][3] - 30 miles, starting at NEBCO
+- [May 19th][4]
 - June 8th 
 - June 23rd
 - July 6th
@@ -35,3 +35,5 @@ There is also a shared [Google Calendar][1] pre-populated with these training ri
 
 [1]: https://calendar.google.com/calendar?cid=c29pY281NjhuamtmM3VkYTRkcmF0YTgzODBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 [2]: /events/ride-2019-04-20/
+[3]: /events/ride-2019-05-04/
+[4]: /events/ride-2019-05-19/

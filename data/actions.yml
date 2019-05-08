@@ -8,17 +8,23 @@ actionItem :
     url : /msg/join
     id: joinBtn
 
-  - icon : tf-ion-ios-body
-    title : Volunteer
-    content : Looking for other ways to help? Use this form to inquire about Volunteer Opportunites that best match your skills & availability - whether you plan to ride or not!
-    url : '#contact-us'
-    id: volunteerBtn
-
   - icon : tf-genius
     title : Become a Sponsor
     content : We want your logo emblazoned proudly on Team Craft Beer's Jerseys. Sponsorship options range from $500 for a small logo on the pocket to $10,000 for the back. 
     url : '#pricing'
     id: sponsorBtn
+
+  - icon : tf-ion-beer
+    title : Train with Us
+    content : Our training rides - which often end at a brewery - are open to anyone. We post the routes here before the ride & our team has riders of all levels. 
+    url : /events/rides
+    id: cheerBtn
+
+  - icon : tf-ion-ios-body
+    title : Volunteer
+    content : Looking for other ways to help? Use this form to inquire about Volunteer Opportunites that best match your skills & availability - whether you plan to ride or not!
+    url : '#contact-us'
+    id: volunteerBtn
 
   - icon : tf-ion-tshirt-outline
     title : Buy Gear
@@ -32,8 +38,3 @@ actionItem :
     url : https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.teamParticipants&teamID=5826
     id: donateBtn
     
-  - icon : tf-ion-beer
-    title : Cheer Along the Route
-    content : It's amazing to see so many folks along the path the day of the ride. If you are willing and able to camp out along the ride path & cheer us on, it really truly helps. 
-    url : https://www.rideclosertofree.org/index.cfm?fuseaction=cms.page&id=1091
-    id: cheerBtn
