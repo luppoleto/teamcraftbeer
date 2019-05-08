@@ -35,7 +35,7 @@ pricingTable :
     level: 3
     plan :
       - planDetails : Logo on Back 
-      - planDetails : 6 of 8 spots available (1 sold)
+      - planDetails : 5 of 8 spots available (2 sold)
       - planDetails : 4 x VIP Tickets to TCB Party
       
   - title : Platinum
