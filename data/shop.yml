@@ -1,6 +1,6 @@
 enable : true
-heading : TCB Gear 
-headingSpan : Coming Soon...
+heading : TCB 
+headingSpan : Gear
 filterList :
   - filterType : apparel
     filterTitle : Apparel
@@ -16,30 +16,30 @@ filterList :
 
 shopItem :
   - types : apparel
-    image : images/gear/tee-black.png
+    image : images/gear/tee-blue.png
     icon : tf-ion-android-search
     URL : #
-    title : Black Tee
-    description : Charcoal Team Craft Beer t-shirt with white screen print.
+    title : Dark Blue Tee
+    description : Dark Blue Team Craft Beer t-shirt with white screen print. $15
     
   - types : apparel
-    image : images/gear/tee-gray.png
+    image : images/gear/tee-charcoal.png
     icon : tf-ion-android-search
     URL : #
-    title : Silver Tee
-    description : Silver gray t-shirt with white screen print.
+    title : Charcoal Tee
+    description : Charcoal gray t-shirt with white screen print. $15
 
   - types : apparel
-    image : images/gear/tee-seafoam.png
+    image : images/gear/tee-purple.png
     icon : tf-ion-android-search
     URL : #
-    title : Seafoam Tee
-    description : Greenish teal t-shirt with white screen print.
+    title : Purple Tee
+    description : Purple Team Craft Beer t-shirt with white screen print. $15
     
   - types : gear
     image : images/gear/water-bottle.jpg
     icon : tf-ion-android-search
     URL : #
     title : TCB Water Bottle
-    description : The signature TCB Yellow water bottle will remind you of the beer that awaits at the finish!
+    description : The signature TCB Yellow water bottle will remind you of the beer that awaits at the finish! $5
     

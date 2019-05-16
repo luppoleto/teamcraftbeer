@@ -86,7 +86,7 @@ custom_css = ["css/custom.css"]
         [[params.counter.counterItem]]
         title = "Riders"
         icon = "tf-ion-android-bicycle"
-        count = 105
+        count = 114
 
         [[params.counter.counterItem]]
         title = "Miles Pledged"
@@ -96,12 +96,12 @@ custom_css = ["css/custom.css"]
         [[params.counter.counterItem]]
         title = "Total Raised"
         icon = "tf-ion-cash"
-        count = "$253,126"
+        count = "$258,731"
 
         [[params.counter.counterItem]]
         title = "Pints of Beer"
         icon = "tf-ion-beer"
-        count = "2503"
+        count = "2507"
 
     # footer
     [params.footer]

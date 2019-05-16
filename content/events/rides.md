@@ -21,7 +21,7 @@ Here is the tentative schedule for training rides in the 2019 Season:
 
 - [April 20th][2] - POSTPONED! 
 - [May 4th][3] - 30 miles, starting at NEBCO
-- [May 19th][4]
+- [May 19th][4] - 30 mile & 50 mile options, starting at Sherman Ave. Rail Trail
 - June 8th 
 - June 23rd
 - July 6th
