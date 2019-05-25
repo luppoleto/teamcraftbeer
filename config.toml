@@ -23,19 +23,19 @@ summaryLength = 10
     weight = 3
 
     [[menu.nav]]
-    name = "Gear"
-    URL = "gear"
+    name = "Events"
+    URL = "events"
     weight = 4
-
+    
     [[menu.nav]]
     name = "Sponsor"
     URL = "pricing"
     weight = 5
 
     [[menu.nav]]
-    name = "Events"
-    URL = "events"
-    weight = 6
+    name = "Gear"
+    URL = "gear"
+    weight = 6   
 
     [[menu.nav]]
     name = "Contact"
