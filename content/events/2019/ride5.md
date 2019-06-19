@@ -8,7 +8,7 @@ tease: "Ride #5 of the 2019 training season explores Stratford CT!"
 type: "event"
 tags: ["events", "rides"]
 eventdate: "2019-06-23"
-eventtime: "TBD"
+eventtime: "9:00 AM"
 featured: "true"
 draft: "false"
 ---
