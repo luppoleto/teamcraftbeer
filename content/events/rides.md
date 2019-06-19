@@ -23,7 +23,7 @@ Here is the tentative schedule for training rides in the 2019 Season:
 2. [May 4th][3] - 30 miles, starting at NEBCO
 3. [May 19th][4] - 30 mile & 50 mile options, starting at Sherman Ave. Rail Trail
 4. [June 8th][5] - 36 mile Milford Loop, starting at NEBCO
-5. June 23rd - Stratford / Two Roads / Brewport 
+5. [June 23rd][6] - Stratford / Two Roads / Brewport 
 6. July 6th - Hopewell Junction NY - Across the Hudson
 7. July 21st
 8. August 10th

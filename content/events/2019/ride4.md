@@ -9,7 +9,7 @@ type: "event"
 tags: ["events", "rides"]
 eventdate: "2019-06-08"
 eventtime: "9:00 AM"
-featured: "true"
+featured: "false"
 ---
 
 ### Saturday, June 8th, 2019 
