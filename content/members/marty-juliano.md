@@ -13,7 +13,7 @@ participantid: "17877"
 
 ## Marty & Matt Speak Candidly on WFSB
 
-Team Craft Beer Captain Marty Juliano & teammate, Matt Luppoli recently spoke to local NBC station (WFSB) about their personal connections with cancer.
+Team Craft Beer Captain Marty Juliano & teammate, Matt Lupoli recently spoke to local NBC station (WFSB) about their personal connections with cancer.
 [Watch Now][watch]
 
 ## A Message from Our Captain...
