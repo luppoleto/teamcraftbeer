@@ -4,7 +4,7 @@ date: 2019-07-10
 author: TCB
 image: "/images/team/marty-j.jpg"
 description : "Like so many of us, Marty's passion for fighting cancer is deeply personal..."
-tease: "Like so many of us, Marty's passion for fighting cancer is deeply personal. Watch as he and fellow teammate share their stories." 
+tease: "Like so many of us, Marty's passion for fighting cancer is deeply personal. Watch as he and fellow teammate, Matt share their stories." 
 type: "member"
 tags: ["spotlight"]
 featured: "true"
@@ -13,8 +13,8 @@ participantid: "17877"
 
 ## Marty & Matt Speak Candidly on WFSB
 
-Team Craft Beer Captain Marty Juliano & teammate, Matt Lupoli recently spoke to local NBC station (WFSB) about their personal connections with cancer.
-[Watch Now][watch]
+Team Craft Beer Captain Marty Juliano & teammate, Matt Lupoli recently spoke to local NBC Connecticut about their personal connections with cancer.
+[Watch Now!][watch]
 
 ## A Message from Our Captain...
 
