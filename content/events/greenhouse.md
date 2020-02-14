@@ -1,5 +1,5 @@
 ---
-title: "MiKro 6th Annual Greenhouse Festival 2020"
+title: "MiKro Greenhouse Festival 2020"
 date: 2019-03-29
 author: TCB
 image: images/2019/events-greenhouse.jpg
@@ -19,7 +19,7 @@ The 2020 event is sold out! Please note, tickets will NOT be available at the do
 
 ### Brought to you by [MiKro][1] and [Michael's Greenhouses][2]
 
-Join us as we shake off the icy frost of this winter. We'll be hosting a beer festival at one of CT's largest greenhouses. It may still be chilly outside, but in Michael's Greenhouse spring will be in full swing! Stroll around and sample amazing craft beer while looking at all of the beautiful plants in bloom! 
+Join us as for the 6th annual Greenhouse Festival as we shake off the icy frost of this winter. We'll be hosting a beer festival at one of CT's largest greenhouses. It may still be chilly outside, but in Michael's Greenhouse spring will be in full swing! Stroll around and sample amazing craft beer while looking at all of the beautiful plants in bloom! 
 
 <!-- Enjoy live bluegrass music, North Haven's own [Wolfski's Pierogi Truck][3], the [Caseus Cheese Truck][4] & Sobo Brothers BBQ 
 
