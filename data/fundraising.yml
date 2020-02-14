@@ -1,37 +1,42 @@
 enable : true
 heading : Fundraising
 headingSpan : 
-title : We’ve raised over $284,000 for Cancer research and patient care!
+title : We’ve raised over $475,000 for Cancer research and patient care!
 content : Team Craft Beer first participated in the Closer to Free ride in 2015. Since then our fundraising efforts have grown considerably but team growth has been modest (yellow). So we are focusing on growing the team and are excited at what we can accomplish together!
 image : images/graph.png
 
-# Calculate percent as actual amount raised / $150,000 (2019 goal)
-# 2015-2018 = $223,000 -- Add this year's total to that for cumulative ##
+# Calculate percent as actual amount raised / $250,000 (2020 goal)
+# 2015-2019 = $475,000 -- Add this year's total to that for cumulative ##
 yearSummary :
+  - year : 2020
+    amountRaised : $6,887
+    goal: $250,000
+    itemPercent : 3%
+
   - year : 2019
-    amountRaised : $61,512
+    amountRaised : $252,000
     goal: $150,000
-    itemPercent : 41%
+    itemPercent : 101%
 
   - year : 2018
     amountRaised : $120,000
     goal : $100,000
-    itemPercent : 80%
+    itemPercent : 48%
 
   - year : 2017
     amountRaised : $58,000
     goal: $50,000
-    itemPercent : 38% 
+    itemPercent : 23% 
 
   - year : 2016
     amountRaised : $30,000 
     goal : $25,000
-    itemPercent : 20%
+    itemPercent : 12%
 
   - year : 2015
     amountRaised : $15,000 
     goal : $10,000
-    itemPercent : 10%
+    itemPercent : 6%
     
   
   

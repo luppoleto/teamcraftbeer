@@ -17,7 +17,7 @@ actionItem :
   - icon : tf-ion-beer
     title : Train with Us
     content : Our training rides - which often end at a brewery - are open to anyone. We post the routes here before the ride & our team has riders of all levels. 
-    url : /events/rides
+    url : /rides
     id: cheerBtn
 
   - icon : tf-ion-ios-body
@@ -35,6 +35,6 @@ actionItem :
   - icon : tf-ion-cash
     title : Make a Donation
     content : The easiest way to help Team Craft Beer is to fund one of our members. Donate through the Closer to Free website to any member of Team Craft Beer!
-    url : https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.teamParticipants&teamID=5826
+    url : https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.teamParticipants&teamID=6006
     id: donateBtn
     

@@ -10,7 +10,7 @@ tags: ["events", "rides"]
 eventdate: "2019-08-10"
 eventtime: "{9:00AM}"
 featured: "false"
-draft: "false"
+draft: "true"
 ---
 
 ### AUG 10 2019 

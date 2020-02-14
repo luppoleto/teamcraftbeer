@@ -10,6 +10,7 @@ tags: ["events"]
 eventdate: 2019-06-29
 eventtime: "12:00 PM"
 featured: "false"
+draft: "true"
 ---
 
 ## Saturday, June 29th 2019

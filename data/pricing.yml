@@ -1,5 +1,5 @@
 enable : true
-heading : Jersey
+heading : 2020 Jersey
 headingSpan : Sponsorship
 pricingTable :
   - title : Bronze
@@ -7,11 +7,11 @@ pricingTable :
     time : each 
     btnURL : #sponsor
     btnText : Signup
-    soldOut: true
+    soldOut: false
     level: 1
     plan :    
       - planDetails : Logo on Jersey Back Pockets 
-      - planDetails : 0 of 16 spots available (16 sold)
+      - planDetails : 16 of 16 spots available (0 sold)
       - planDetails : 2 x VIP Tickets to TCB Party      
       
   - title : Silver
@@ -19,11 +19,11 @@ pricingTable :
     time : each
     btnURL : #sponsor
     btnText : Signup
-    soldOut: true
+    soldOut: false
     level: 2
     plan :
       - planDetails : Logo on Side or Shoulder
-      - planDetails : 0 of 4 spots available (4 sold)
+      - planDetails : 4 of 4 spots available (0 sold)
       - planDetails : 2 x VIP Tickets to TCB Party
       
   - title : Gold
@@ -35,11 +35,11 @@ pricingTable :
     level: 3
     plan :
       - planDetails : Logo on Back 
-      - planDetails : 5 of 8 spots available (2 sold)
+      - planDetails : 8 of 8 spots available (0 sold)
       - planDetails : 4 x VIP Tickets to TCB Party
       
   - title : Platinum
-    price : $4,000
+    price : $5,000
     time : each
     btnURL : #sponsor
     btnText : Signup
@@ -47,7 +47,7 @@ pricingTable :
     level: 4
     plan :
       - planDetails : Top Back of Jersey 
-      - planDetails : 0 spots available (1 sold)      
+      - planDetails : 0 spot available (1 sold)      
       - planDetails : 8 x VIP Tickets to TCB Party
 
   # - title : Excelsior

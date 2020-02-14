@@ -9,8 +9,8 @@ type: "event"
 tags: ["events", "rides"]
 eventdate: "2019-07-21"
 eventtime: "9:00 AM"
-featured: "true"
-draft: "false"
+featured: "false"
+draft: "true"
 ---
 
 ### JUL 21 2019 

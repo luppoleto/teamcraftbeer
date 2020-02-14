@@ -11,6 +11,7 @@ eventdate: "2019-06-23"
 eventtime: "9:00 AM"
 featured: "false"
 draft: "false"
+draft: "true"
 ---
 
 ### Sunday, June 23th, 2019 

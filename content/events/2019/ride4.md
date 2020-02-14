@@ -10,6 +10,7 @@ tags: ["events", "rides"]
 eventdate: "2019-06-08"
 eventtime: "9:00 AM"
 featured: "false"
+draft: "true"
 ---
 
 ### Saturday, June 8th, 2019 

@@ -9,7 +9,8 @@ type: "event"
 tags: "" 
 eventdate: 2019-04-20
 eventtime: "- Aug 25"
-featured: "true"
+featured: "false"
+draft: "true"
 ---
 
 Join Team Craft Beer as we train for the Closer to Free ride in September. All are welcome. You don't have to be a member of TCB. 
