@@ -1,16 +1,17 @@
 ---
 title: "MiKro Greenhouse Festival 2020"
-date: 2019-03-29
+date: "2019-03-29"
 author: TCB
 image: images/2019/events-greenhouse.jpg
 description : "Celebrate Spring at The Greenhouse Beer Festival"
 tease: "Join us as we shake off the icy frost of this winter and drink beer for a great cause in the warmth of one of CT's largest greenhouses!"
 type: "event"
 tags: "" 
-eventdate: 2020-03-29
-eventtime: 1:00pm-4:00pm
+eventdate: "2020-03-29"
+eventtime: "1:00pm-4:00pm"
 draft: "false"
 featured: "true"
+weight: "20200329" # event date as a number to ensure proper sorting
 ---
 <!-- 
 ### TICKETS ARE SOLD OUT! 
