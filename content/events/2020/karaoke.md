@@ -8,7 +8,7 @@ type: "event"
 tags: ["events"]
 eventdate: 2020-02-28
 eventtime: 4:00pm-10:00pm
-featured: "true"
+featured: "false"
 weight: "20200228" # event date as a number to ensure proper sorting
 
 ---

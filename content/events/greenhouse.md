@@ -23,11 +23,13 @@ The 2020 event is sold out! Please note, tickets will NOT be available at the do
 Join us as for the 6th annual Greenhouse Festival as we shake off the icy frost of this winter. We'll be hosting a beer festival at one of CT's largest greenhouses. It may still be chilly outside, but in Michael's Greenhouse spring will be in full swing! Stroll around and sample amazing craft beer while looking at all of the beautiful plants in bloom! 
 
 <!-- Enjoy live bluegrass music, North Haven's own [Wolfski's Pierogi Truck][3], the [Caseus Cheese Truck][4] & Sobo Brothers BBQ 
+-->
+
+
+### Ticket Information
 
 Your ticket gets you entrance to the festival and all the tastes you would like.
-[Buy Tickets Here (Beerfests.com, $60)][5] -->
-
-### Ticket Information Coming Soon!
+[Buy Tickets Here (Beerfests.com, $30-60)][5] 
 
 All proceeds from this great event will go to Smilow Cancer Hospital [Closer to Free Ride][6]. 
 
@@ -37,5 +39,5 @@ Thus far, some of the breweries attending include Lawsons Finest Liquids, NEBCO,
 [2]: http://michaelsgreenhouses.com/
 [3]: http://wolfskis.com/
 [4]: https://thecheesetruck.com/
-[5]: https://tickets.beerfests.com/event/mikro-greenhouse-festival/tag/bf19
+[5]: https://tickets.beerfests.com/event/mikro-greenhouse-festival
 [6]: https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.team&teamID=6006
