@@ -9,7 +9,7 @@ type: "event"
 tags: "" 
 eventdate: "2020-03-29"
 eventtime: "1:00pm-4:00pm"
-draft: "false"
+draft: "true"
 featured: "true"
 weight: "20200329" # event date as a number to ensure proper sorting
 ---

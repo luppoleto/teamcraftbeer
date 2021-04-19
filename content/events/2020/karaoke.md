@@ -10,7 +10,7 @@ eventdate: 2020-02-28
 eventtime: 4:00pm-10:00pm
 featured: "false"
 weight: "20200228" # event date as a number to ensure proper sorting
-
+draft: "true"
 ---
 
 It's Always Stout Season Presents a Karaoke Night Fundraiser at [5 Churches Brewing][1] in New Britain to benefit Closer to Free. 

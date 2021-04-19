@@ -39,7 +39,8 @@
             </div>            
         </div>
         <div class="row">
-            {{ range first 3 (where .Pages "Params.type" "member") }}
+            {{ $members := where site.RegularPages "Section" "members" }}
+            {{ range first 3 (where $members ".Params.featured" "true") }}
             {{"<!-- single member post -->" | safeHTML}}
             <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
                 <div class="post-block">

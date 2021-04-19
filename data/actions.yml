@@ -28,7 +28,7 @@ actionItem :
 
   - icon : tf-ion-tshirt-outline
     title : Buy Gear
-    content : All proceeds are pooled and distributed to 1st year members of Team Craft Beer who need a helping hand to get to their minimum pledge level. [Coming Soon!] 
+    content : All proceeds are pooled and distributed to 1st year members of Team Craft Beer who need a helping hand to get to their minimum pledge level.
     url : '#gear'
     id: shopBtn
     

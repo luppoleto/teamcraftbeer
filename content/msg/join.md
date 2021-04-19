@@ -20,7 +20,7 @@ Go to the [Team Craft Beer Page][1] on the *Closer to Free Ride* website and cli
 
 Once you've registered, be sure to [Like Us on Facebook][2] or [Follow Us on Twitter][3]. We will post about events and training rides there. There are usually a beginner level and intermediate level route for each ride so even new riders can find join in. 
 
-We've also made a [Google Calendar][6] of Training Rides & TCB Events (TIP: Click "Add" when prompted, you can always remove it later). We are still early in the season, so these dates are tentative, but we will keep the calendar feed updated as more details become available. 
+<!-- We've also made a [Google Calendar][6] of Training Rides & TCB Events (TIP: Click "Add" when prompted, you can always remove it later). We are still early in the season, so these dates are tentative, but we will keep the calendar feed updated as more details become available.  -->
 
 We have all levels of riders. Whether you choose 10 miles, 25 miles, 40 miles, 65 miles or 100 miles, we'll have team members riding with you. 
 
@@ -33,9 +33,9 @@ Feel free to reach out on your preferred Social Media channel or [drop us a line
 If you need inspiration, check out our [Fundraising Tips][5]. 
 
 
-[1]: https://www.rideclosertofree.org/team/5826
+[1]: https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.team&teamID=6223
 [2]: https://facebook.com/teamcraftbeer
 [3]: https://twitter.com/teamcraftbeer
 [4]: /#contact-us
 [5]: /posts/fundraising-tips/
-[6]: https://calendar.google.com/calendar?cid=c29pY281NjhuamtmM3VkYTRkcmF0YTgzODBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+<!-- [6]: https://calendar.google.com/calendar?cid=c29pY281NjhuamtmM3VkYTRkcmF0YTgzODBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ -->
