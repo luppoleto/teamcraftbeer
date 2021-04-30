@@ -7,7 +7,7 @@ image: "/images/training-rides.jpg"
 description : "Team Craft Beer 2021 Training Ride Schedule. Join us on our next training ride!"
 tease: "Join us on our next Team Craft Beer training ride! Training rides are open to everyone. You don't have to be part of our team but - fair notice - we may try to recruit you." 
 tags: ["events", "rides"]
-eventdate: 2019-04-20
+eventdate: 2021-09-11
 eventtime: "- Aug 25"
 featured: "false"
 draft: "false"

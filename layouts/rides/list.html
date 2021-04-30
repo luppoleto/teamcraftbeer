@@ -7,14 +7,29 @@
     <div class="container">
         <div class="row">
             <h1>Training Rides</h1>
+        </div>        
+        <div class="row">
+            <h2>Upcoming</h2>
         </div>
         <div class="row">            
-            {{ range .Data.Pages }}
-            {{"<!-- single blog post -->" | safeHTML}}
-            {{ .Render "article" }} 
-            {{"<!-- /single blog post -->" | safeHTML}}
+            {{ range .Data.Pages }}            
+                {{if (time .Params.eventdate).After now}}
+                {{ .Render "ride" }}                 
+                {{ end }}
+                
             {{ end }}
-        </div>        
+        </div>
+        <div class="row mt-5">
+            <h2>Past</h2>
+        </div>
+        <div class="row">            
+            {{ range .Data.Pages }}            
+                {{if (time .Params.eventdate).Before now}}
+                {{ .Render "ride" }}                 
+                {{ end }}
+                
+            {{ end }}
+        </div>                
     </div>
 </section>
 {{"<!-- /blog -->" | safeHTML}}
