@@ -12,22 +12,26 @@
             <h2>Upcoming</h2>
         </div>
         <div class="row">            
-            {{ range .Data.Pages }}            
-                {{if (time .Params.eventdate).After now}}
-                {{ .Render "ride" }}                 
-                {{ end }}
-                
+            {{ range .Data.Pages }}   
+                {{ if(isset .Params "eventdate") }}            
+                    {{ if (time .Params.eventdate).After now}}
+                        {{ .Render "ride" }}                 
+                    {{ end }}
+                {{ else }}                    
+                    {{ .Render "pinned" }}                    
+                {{ end }}                     
             {{ end }}
         </div>
         <div class="row mt-5">
             <h2>Past</h2>
         </div>
         <div class="row">            
-            {{ range .Data.Pages }}            
-                {{if (time .Params.eventdate).Before now}}
-                {{ .Render "ride" }}                 
+            {{ range .Data.Pages }}
+                {{ if(isset .Params "eventdate") }}            
+                    {{ if (time .Params.eventdate).Before now}}
+                        {{ .Render "ride" }}                 
+                    {{ end }}
                 {{ end }}
-                
             {{ end }}
         </div>                
     </div>

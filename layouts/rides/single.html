@@ -16,7 +16,9 @@
             
             <div class="col-lg-8 offset-lg-2">
                 <div class="post-single-content">
+                    {{ if isset .Params "eventtime" }}
                     <h2 class="text-center">{{ dateFormat "Monday, Jan 2, 2006" .Params.eventdate }} at {{ .Params.eventtime }}</h2>
+                    {{ end }}
 
                     {{ .Content }}
                    

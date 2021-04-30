@@ -5,10 +5,11 @@
             {{ with .Params.image }}<img src="{{ . | absURL }}" alt="post-image" class="img-fluid">{{ end }}
         </div>
 
-        <div class="content">            
+        <div class="content">
+            <small>PINNED</small>
             <h3><a href="{{ .Permalink }}">{{ with .Params.name}}{{.}}{{else}}{{ .Title }}{{end}}</a></h3>
             <p>{{ .Summary }}</p>
-            <a class="btn btn-transparent" href="{{ .Permalink }}">Details</a>
+            <a class="btn btn-transparent" href="{{ .Permalink }}">Details</a>            
         </div>
     </div>
 </article>
