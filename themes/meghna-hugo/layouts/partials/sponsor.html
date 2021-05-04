@@ -1,6 +1,6 @@
 {{ if .Site.Data.sponsor.enable }}
 {{"<!-- Start sponsor form Us -->" | safeHTML}}
-<section id="sponsor" class="sponsor section bg-one">
+<section id="sponsor" class="sponsor section section-bg">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -22,7 +22,7 @@
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                 <form id="sponsor-form" name="Sponsorship" class="form-meghna" method="post" action="/msg/sponsorship" role="form" data-netlify="true">
                     
-                    <div class="form-group">
+                    <!-- <div class="form-group">
                         <select id="level-chooser" name="level" class="form-control">
                             <option value="none">Sponsorship Level...</option>
                             <option value="bronze">Bronze - $500</option>
@@ -30,7 +30,7 @@
                             <option value="gold">Gold - $1250</option>
                             <option value="platinum">Platinum - $4000</option>
                             </select>
-                    </div>
+                    </div> -->
 
                     <div class="form-group">
                         <input type="text" placeholder="Business Name" class="form-control" name="business-name" id="business-name">

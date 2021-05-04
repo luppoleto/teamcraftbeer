@@ -35,6 +35,6 @@ actionItem :
   - icon : tf-ion-cash
     title : Make a Donation
     content : The easiest way to help Team Craft Beer is to fund one of our members. Donate through the Closer to Free website to any member of Team Craft Beer!
-    url : https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.teamParticipants&teamID=6006
+    url : https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.team&teamID=6223
     id: donateBtn
     
