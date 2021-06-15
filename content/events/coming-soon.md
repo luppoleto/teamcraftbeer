@@ -14,3 +14,7 @@ draft: "false"
 ---
 
 We won't be having too many events this year. We are working on putting together some small events and virtual events this year. We will post about those as soon as details have been finalized. 
+
+## Train With Us
+
+Need help getting prepared for the Ride? Check our [Training Ride Schedule](/rides) and join us for a training ride!

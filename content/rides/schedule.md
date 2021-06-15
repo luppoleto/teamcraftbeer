@@ -8,7 +8,7 @@ description : "Team Craft Beer 2021 Training Ride Schedule. Join us on our next 
 tease: "Join us on our next Team Craft Beer training ride! Training rides are open to everyone. You don't have to be part of our team but - fair notice - we may try to recruit you." 
 tags: ["events", "rides"]
 featured: "false"
-draft: "false"
+draft: "true"
 ---
 
 Join Team Craft Beer as we train for the 2021 Closer to Free ride in September. All are welcome. You don't have to be a member of TCB. 
