@@ -11,8 +11,8 @@ filterList :
   - filterType : gear
     filterTitle : Gear
 
-  - filterType : glassware
-    filterTitle : Glassware
+  # - filterType : glassware
+  #   filterTitle : Glassware
 
 shopItem :
   - types : apparel
@@ -42,4 +42,11 @@ shopItem :
     URL : #
     title : TCB Water Bottle
     description : The signature TCB Yellow water bottle will remind you of the beer that awaits at the finish! $5
+
+  # - types : jersey
+  #   image : images/tcb-sea-hag-jersey-back.png
+  #   icon : tf-ion-android-search
+  #   URL : #
+  #   title : TCB Jersey
+  #   description : This is an older Jersey, we're still evaluating whether there will be new Jersey's for 2023.
     

@@ -52,6 +52,9 @@ ogTitle = "Beer, Bikes & Beating Cancer"
 ogDescription = "Join Team Craft Beer for the Closer to Free Ride to raise money for Cancer Research at Yale New Haven Hospital and Patient Care at Smilow Cancer Center"
 ogImage = "https://teamcraftbeer.org/images/logo-bk.png"
 
+# Closer to Free Links
+ctfTeamUrl = "https://www.rideclosertofree.org/index.cfm?fuseaction=donorDrive.team&teamID=6646"
+
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Beer, Bikes & Beating Cancer"
@@ -84,24 +87,24 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Riders"
+        title = "2023 Riders"
         icon = "tf-ion-android-bicycle"
-        count = "125"
+        count = "91"
 
         [[params.counter.counterItem]]
         title = "Miles Pledged"
         icon = "tf-map2"
-        count = "5000"
+        count = "2275"
 
         [[params.counter.counterItem]]
         title = "Total Raised"
         icon = "tf-ion-cash"
-        count = "$481,887‬"
+        count = "$1,011,000"
 
         [[params.counter.counterItem]]
         title = "Pints of Beer"
         icon = "tf-ion-beer"
-        count = "2569"
+        count = "6569"
 
     # footer
     [params.footer]
